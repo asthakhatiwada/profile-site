@@ -49,6 +49,38 @@
 </div>
 <div class="card">
   <h3 class="card-title">
+    Teaching Assistant, BMTRY 722 – Analysis of Survival Data, Summer 2019
+  </h3>
+  <div class="pl-6">
+    <div class="flex py-0.5">
+      <p class="card-row-header">Level</p>
+      <p class="">Graduate</p>
+    </div>
+    <div class="flex py-0.5">
+      <p class="card-row-header">Topics covered</p>
+      <p class="">
+        Introductory course in theory and application of analytic methods for
+        time-to-event data, including nonparametric, parametric, and
+        semi-parametric (Cox model) approaches, different types of censoring,
+        sample size and power estimation.
+      </p>
+    </div>
+    <div class="flex py-0.5">
+      <p class="card-row-header">Student group</p>
+      <p class="">MS/PhD Biostatistics/ Epidemiology students.</p>
+    </div>
+    <div class="flex py-0.5">
+      <p class="card-row-header">Responsibilities</p>
+      <p class="">
+        Guest lectured on hypothesis testing and confidence interval calculation
+        for survival outcomes; graded homework; provided homework and R
+        programming support.
+      </p>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <h3 class="card-title">
     Teaching Assistant, BMTRY 701 – Biostatistical Methods II, Fall 2018
   </h3>
   <div class="pl-6">

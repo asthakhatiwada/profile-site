@@ -13,7 +13,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
   }
 
   :local(.special-text) {
-    @apply text-yellow-600 ml-4 flex items-center dark:text-yellow-300;
+    @apply text-yellow-600 dark:text-yellow-300;
   }
 
   .image-wrapper {
@@ -42,13 +42,10 @@ https://github.com/svelte-add/tailwindcss/issues/8
           target="_blank"
           href="https://pubmed.ncbi.nlm.nih.gov/32311700/">Effects of vitamin D
           supplementation on circulating concentrations of growth factors and
-          immune-mediators in healthy women during pregnancy</a>. Pediatr Res.
+          immune-mediators in healthy women during pregnancy</a>. <span class="italic">Pediatr Res.</span>
         2020 Apr; 20:1-9. PMID: 32311700.
       </p>
       <p class="special-text">
-        <InlineSVG
-          src={star}
-          class="h-6 w-6 flex-shrink-0 fill-current inline-block mr-1" />
         Highlighted in the Editor’s Focus for the February 2021 print issue of
         Pediatric Research
       </p>
@@ -68,14 +65,11 @@ https://github.com/svelte-add/tailwindcss/issues/8
           target="_blank"
           href="https://pubmed.ncbi.nlm.nih.gov/32566544/">
           Ranking subjects based on paired compositional data with application
-          to age-related hearing loss subtyping</a>. Commun Stat Appl Methods.
+          to age-related hearing loss subtyping</a>. <span class="italic">Commun Stat Appl Methods.</span>
         2020 Mar;27(2):225-239. PMID: 32566544; PMCID: PMC7304553 (*joint first
         author).
       </p>
       <p class="special-text">
-        <InlineSVG
-          src={star}
-          class="h-6 w-6 flex-shrink-0 fill-current inline-block mr-1" />
         <span>First joint author</span>
       </p>
     </div>
@@ -104,7 +98,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
       CD24Fc Covid19 Team (…,
       <strong>Khatiwada A</strong>, …, Chung D, Li Z). Immunological insights
       into the therapeutic roles of soluble CD24 against severe COVID-19.
-      Submitted to New England Journal of Medicine.
+      Submitted to <span class="italic">New England Journal of Medicine.</span>
     </p>
   </div>
   <div class="publication-item">
@@ -112,15 +106,15 @@ https://github.com/svelte-add/tailwindcss/issues/8
       <strong>Khatiwada A</strong>, Wolf BJ, Yilmaz AS, Ramos P, Pietrzak M,
       Lawson A, Hunt KJ, Kim, HJ, Chung D. GPA-Tree: Statistical Approach for
       Functional-Annotation-Tree-Guided Prioritization of GWAS results.
-      Submitted to Bioinformatics.
+      Submitted to <span class="italic">Bioinformatics.</span>
     </p>
   </div>
   <div class="publication-item">
     <p>
       Ayoub I, Wolf BJ, Geng L, Song H,
       <strong>Khatiwada A</strong>, Tsao B, Oats J, Rovin B. Prediction Models
-      of Treatment Response in Lupus Nephritis. Submitted to Kidney
-      International.
+      of Treatment Response in Lupus Nephritis. Submitted to <span class="italic">Kidney
+      International.</span>
     </p>
   </div>
   <div class="publication-item">
@@ -129,7 +123,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
       <strong>Khatiwada A</strong>, Chung D, Eudaly J, Gilkeson GS, Cunningham
       MA. Deletion of ERα expression in CD11c+ cells reduce survival in female
       mice and impacts pathways associated with cytokine signaling. Submitted
-      to Journal of Immunology.
+      to <span class="italic">Journal of Immunology.</span>
     </p>
   </div>
 </div>

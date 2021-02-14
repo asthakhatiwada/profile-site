@@ -19,8 +19,8 @@
       <a target="_blank" href="https://scholar.google.com/citations?user=35QeShYAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </div>
     <div class="footer-link">
-      <img class="icon" src="/public/img/twitter.svg">
-      Twitter
+      <img class="icon" src="/public/img/ncbi.svg">
+      <a target="_blank" href="https://www.ncbi.nlm.nih.gov/myncbi/1H_rcsuIGrVA1A/bibliography/public/">NCBI</a>
     </div>
   </div>
 </div>

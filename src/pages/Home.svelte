@@ -1,6 +1,6 @@
 <style>
   h2 {
-    @apply text-xl font-bold my-4;
+    @apply text-xl font-bold mt-10 mb-2;
   }
 </style>
 
