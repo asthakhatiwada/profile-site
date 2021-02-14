@@ -1,7 +1,7 @@
 <script lang="ts">
   import InlineSVG from "svelte-inline-svg";
-  import {link} from 'svelte-spa-router';
-  import active from 'svelte-spa-router/active';
+  import { link } from "svelte-spa-router";
+  import active from "svelte-spa-router/active";
   import menu from "../public/heroicons/outline/menu.svg";
   import cross from "../public/heroicons/outline/x.svg";
   import home from "../public/heroicons/solid/home.svg";
@@ -29,7 +29,7 @@
     <div class="flex items-center justify-between px-4 py-3 sm:p-0">
       <h1
         class="text-gray-100 text-2xl font-semibold flex-shrink-0 hover:text-blue-100">
-        <a href="#" class="flex items-center">
+        <a href="/" use:link class="flex items-center">
           <InlineSVG
             src={home}
             class="h-6 w-6 fill-current inline-block mr-1" />
@@ -52,12 +52,39 @@
     </div>
     <div class="{isNavOpen ? 'block' : 'hidden'} sm:block">
       <nav class="px-2 pt-2 pb-4 sm:flex sm:p-0">
-        <a href="/publication" class="nav-item" use:link use:active={{className: 'nav-item-active'}}>
+        <a
+          href="/"
+          class="nav-item"
+          use:link
+          use:active={{ className: 'nav-item-active' }}>
+          Home</a>
+        <a
+          href="/publication"
+          class="nav-item"
+          use:link
+          use:active={{ className: 'nav-item-active' }}>
           Publication</a>
-        <a href="/software" class="nav-item" use:link use:active={{className: 'nav-item-active'}}> Software </a>
-        <a href="/teaching" class="nav-item" use:link use:active={{className: 'nav-item-active'}}> Teaching </a>
-        <a href="/cv" class="nav-item" use:link use:active={{className: 'nav-item-active'}}> CV </a>
-        <a href="/contact" class="nav-item" use:link use:active={{className: 'nav-item-active'}}> Contact </a>
+        <a
+          href="/teaching"
+          class="nav-item"
+          use:link
+          use:active={{ className: 'nav-item-active' }}>
+          Teaching
+        </a>
+        <a
+          href="/software"
+          class="nav-item"
+          use:link
+          use:active={{ className: 'nav-item-active' }}>
+          Software
+        </a>
+        <a
+          href="/project"
+          class="nav-item"
+          use:link
+          use:active={{ className: 'nav-item-active' }}>
+          Project
+        </a>
       </nav>
     </div>
   </div>

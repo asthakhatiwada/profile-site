@@ -8,7 +8,7 @@
   import Software from "./pages/Software.svelte";
   import Teaching from "./pages/Teaching.svelte";
   import Cv from "./pages/Cv.svelte";
-  import Contact from "./pages/Contact.svelte";
+  import Project from "./pages/Project.svelte";
 
   import Router from "svelte-spa-router";
   import Footer from "./Footer.svelte";
@@ -19,12 +19,15 @@
     "/software": Software,
     "/teaching": Teaching,
     "/cv": Cv,
-    "/contact": Contact,
+    "/project": Project,
     "*": Home,
   };
 </script>
 
 <style>
+  :global(a.external-link) {
+    @apply underline
+  }
 </style>
 
 <Tailwindcss />
