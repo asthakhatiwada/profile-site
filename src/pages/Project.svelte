@@ -1,6 +1,6 @@
 <style>
   .description {
-    @apply mx-2 my-4
+    @apply mx-2 my-4;
   }
 </style>
 
