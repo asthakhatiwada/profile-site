@@ -85,6 +85,13 @@
           use:active={{ className: 'nav-item-active' }}>
           Project
         </a>
+        <a
+          href="/cv"
+          class="nav-item"
+          use:link
+          use:active={{ className: 'nav-item-active' }}>
+          CV
+        </a>
       </nav>
     </div>
   </div>

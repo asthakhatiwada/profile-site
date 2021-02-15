@@ -1,3 +1,7 @@
+<script lang="ts">
+  import { link } from "svelte-spa-router";
+</script>
+
 <style>
   h2 {
     @apply text-xl font-bold mt-10 mb-2;
@@ -13,9 +17,15 @@
     <div>
       <p>
         I am a PhD candidate in Biostatistics at the
-        <a class="external-link" target="_blank" href="https://web.musc.edu">Medical University
-          of South Carolina</a>, working under the supervision of
-        <a class="external-link" target="_blank" href="http://people.musc.edu/~wolfb/">
+        <a
+          class="external-link"
+          target="_blank"
+          href="https://web.musc.edu">Medical University of South Carolina</a>,
+        working under the supervision of
+        <a
+          class="external-link"
+          target="_blank"
+          href="http://people.musc.edu/~wolfb/">
           Dr. Bethany Wolf</a>
         and
         <a
@@ -24,13 +34,22 @@
           href="https://sites.google.com/site/statdchung/">Dr. Dongjun Chung.</a>
         I received a MS degree in Mathematics (statistics concentration) under
         the supervision of
-        <a class="external-link" target="_blank" href="http://faculty.etsu.edu/seier/">
+        <a
+          class="external-link"
+          target="_blank"
+          href="http://faculty.etsu.edu/seier/">
           Dr. Edith Seier</a>
         from
-        <a class="external-link" target="_blank" href="https://www.etsu.edu/ehome/">ETSU</a>
+        <a
+          class="external-link"
+          target="_blank"
+          href="https://www.etsu.edu/ehome/">ETSU</a>
         , and a BS degree in Math (actuarial science emphasis) and BA degree in
         Economics from
-        <a class="external-link" target="_blank" href="https://www.mnstate.edu.">MSUM</a>.
+        <a
+          class="external-link"
+          target="_blank"
+          href="https://www.mnstate.edu.">MSUM</a>.
       </p>
     </div>
 
@@ -59,7 +78,9 @@
         interpret results and co-author manuscripts.
       </p>
       <p class="mt-4">
-        See my CV (link to be added) and/or
+        See my
+        <a href="/cv" class="external-link" use:link>CV</a>
+        and/or
         <a
           class="external-link"
           target="_blank"

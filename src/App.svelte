@@ -26,14 +26,14 @@
 
 <style>
   :global(a.external-link) {
-    @apply underline
+    @apply underline;
   }
 </style>
 
 <Tailwindcss />
 <ModeSwitcher />
 <NavBar />
-<div class="flex-grow max-w-screen-lg m-auto p-4">
+<div class="flex-grow max-w-screen-lg w-screen m-auto p-4">
   <Router {routes} />
 </div>
 <Footer />
