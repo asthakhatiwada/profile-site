@@ -46,7 +46,7 @@
         facilitate understanding of underlying molecular mechanisms related to
         the disease-risk-associated genetic variants. I developed a statistical
         approach, called GPA-Tree, that combines a machine learning algorithm
-        with the higherchical modeling architecture for integrative analysis of
+        with the hierarchical modeling architecture for integrative analysis of
         genome wide association studies (GWAS) data and functional annotation
         information (e.g., gene expression, expression quantitative loci,
         epigenetic marks).
