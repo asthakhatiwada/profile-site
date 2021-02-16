@@ -26,7 +26,6 @@ https://github.com/svelte-add/tailwindcss/issues/8
     min-width: 110px;
   }
 </style>
-<h1 class="text-xl font-bold mb-4">Other Publications</h1>
 <h1 class="text-xl font-bold mb-4">Peer-reviewed Publications</h1>
 <div>
   <div class="publication-item md:flex">
@@ -90,6 +89,19 @@ https://github.com/svelte-add/tailwindcss/issues/8
         infancy and infant weight status at 12 months</a>.
       <span class="italic">Pediatr Obes.</span>
       2018 Oct;13(10):607-613. PMID: 30019385; PMCID: PMC6300983.
+    </p>
+  </div>
+</div>
+<h1 class="text-xl font-bold mb-4">Other Publications</h1>
+<div>
+  <div class="publication-item">
+    <p>
+      The Pelotonia Institute for Immuno-Oncology, The Ohio State University
+      CD24Fc Covid19 Team (…,
+      <strong>Khatiwada A</strong>, …, Chung D, Li Z). Immunological insights
+      into the therapeutic roles of soluble CD24 against severe COVID-19.
+      Submitted to
+      <span class="italic">New England Journal of Medicine.</span>
     </p>
   </div>
 </div>
