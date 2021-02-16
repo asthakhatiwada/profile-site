@@ -33,7 +33,7 @@
 <Tailwindcss />
 <ModeSwitcher />
 <NavBar />
-<div class="flex-grow max-w-screen-lg w-screen m-auto p-4">
+<div class="flex flex-col flex-grow max-w-screen-lg w-screen m-auto p-4">
   <Router {routes} />
 </div>
 <Footer />

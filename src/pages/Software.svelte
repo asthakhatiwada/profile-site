@@ -2,11 +2,13 @@
 </style>
 
 <div class="px-2">
-  <div class="flex items-center">
-    <div class="pr-4"><img style="width: 150px" src="/public/img/gpatree.png" /></div>
+  <div class="block md:flex items-center">
+    <div class="pr-4">
+      <img class="m-auto" style="width: 150px" src="/public/img/gpatree.png" />
+    </div>
     <div class="flex-1">
       <h2 class="mt-0">GPATree</h2>
-      <p>R package implementing the GPA-Tree method.</p>
+      <p>R package to implement the GPA-Tree method.</p>
       <p>
         Shiny app to interactively implement association mapping and investigate
         functional annotation tree.

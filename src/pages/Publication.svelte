@@ -29,7 +29,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
 
 <h1 class="text-xl font-bold mb-4">Peer-reviewed Publications</h1>
 <div>
-  <div class="publication-item sm:flex">
+  <div class="publication-item md:flex">
     <div class="image-wrapper">
       <img class="publication-image" src="/public/img/pr.png" />
     </div>
@@ -55,7 +55,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
       </p>
     </div>
   </div>
-  <div class="publication-item sm:flex">
+  <div class="publication-item md:flex">
     <div class="image-wrapper">
       <img class="publication-image" src="/public/img/csam.gif" />
     </div>
@@ -76,7 +76,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
       </p>
     </div>
   </div>
-  <div class="publication-item sm:flex">
+  <div class="publication-item md:flex">
     <div class="image-wrapper">
       <img class="publication-image" src="/public/img/po.gif" />
     </div>
@@ -108,7 +108,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
   <div class="publication-item">
     <p>
       <strong>Khatiwada A</strong>, Wolf BJ, Yilmaz AS, Ramos P, Pietrzak M,
-      Lawson A, Hunt KJ, Kim, HJ, Chung D. GPA-Tree: Statistical Approach for
+      Lawson A, Hunt KJ, Kim HJ, Chung D. GPA-Tree: Statistical Approach for
       Functional-Annotation-Tree-Guided Prioritization of GWAS results.
       Submitted to
       <span class="italic">Bioinformatics.</span>

@@ -15,7 +15,7 @@
 
 <style>
   .nav-item {
-    @apply block text-white font-semibold hover:bg-black rounded px-2 py-1 sm:mt-0 sm:ml-2 flex items-center;
+    @apply block text-white font-semibold hover:bg-black rounded px-2 py-1 md:mt-0 md:ml-2 flex items-center;
   }
 
   :global(a.nav-item-active) {
@@ -25,8 +25,8 @@
 
 <header class="dark:bg-gray-800 bg-gray-600">
   <div
-    class="max-w-screen-lg m-auto sm:flex sm:justify-between sm:px-4 sm:py-3 sm:pr-3 sm:justify-center">
-    <div class="flex items-center justify-between px-4 py-3 sm:p-0">
+    class="max-w-screen-lg m-auto md:flex md:justify-between md:px-4 md:py-3 md:pr-3 md:justify-center">
+    <div class="flex items-center justify-between px-4 py-3 md:p-0">
       <h1
         class="text-gray-100 text-2xl font-semibold flex-shrink-0 hover:text-blue-100">
         <a href="/" use:link class="flex items-center">
@@ -36,7 +36,7 @@
           <span>Aastha Khatiwada</span>
         </a>
       </h1>
-      <div class="sm:hidden">
+      <div class="md:hidden">
         <button
           type="button"
           class="text-gray-300 focus:text-white hover:text-white"
@@ -50,8 +50,8 @@
         </button>
       </div>
     </div>
-    <div class="{isNavOpen ? 'block' : 'hidden'} sm:block">
-      <nav class="px-2 pt-2 pb-4 sm:flex sm:p-0">
+    <div class="{isNavOpen ? 'block' : 'hidden'} md:block">
+      <nav class="px-2 pt-2 pb-4 md:flex md:p-0">
         <a
           href="/"
           class="nav-item"

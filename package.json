@@ -2,7 +2,8 @@
   "scripts": {
     "dev": "snowpack dev",
     "build": "snowpack build",
-    "clean": "rm -rf build"
+    "clean": "rm -rf build",
+    "format": "prettier --write src/**/*"
   },
   "dependencies": {
     "@snowpack/app-scripts-svelte": "^2.0.0",

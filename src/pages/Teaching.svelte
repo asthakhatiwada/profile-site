@@ -4,7 +4,11 @@
   }
 
   .card {
-    @apply py-4 px-0 sm:px-6;
+    @apply py-4 px-0 md:px-6;
+  }
+
+  .card-row {
+    @apply py-1;
   }
 
   .card-title {
@@ -22,23 +26,23 @@
   <h3 class="card-title">
     Teaching Assistant, BMTRY 702 – Advanced ANOVA and Regression, Fall 2020
   </h3>
-  <div class="pl-2 sm:pl-6">
-    <div class="flex py-0.5">
+  <div class="pl-2 md:pl-6">
+    <div class="flex card-row">
       <p class="card-row-header">Level</p>
       <p class="">Graduate</p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Topics covered</p>
       <p class="">
         Simple and multiple linear regression, logistic regression, model-based
         hypothesis testing, diagnostics, model building and variable selection.
       </p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Student group</p>
       <p class="">MS/PhD Biostatistics students.</p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Responsibilities</p>
       <p class="">
         Graded homework, provided course related support (lecture and SAS
@@ -52,11 +56,11 @@
     Teaching Assistant, BMTRY 722 – Analysis of Survival Data, Summer 2019
   </h3>
   <div class="pl-6">
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Level</p>
       <p class="">Graduate</p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Topics covered</p>
       <p class="">
         Introductory course in theory and application of analytic methods for
@@ -65,11 +69,11 @@
         sample size and power estimation.
       </p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Student group</p>
       <p class="">MS/PhD Biostatistics/ Epidemiology students.</p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Responsibilities</p>
       <p class="">
         Guest lectured on hypothesis testing and confidence interval calculation
@@ -84,11 +88,11 @@
     Teaching Assistant, BMTRY 701 – Biostatistical Methods II, Fall 2018
   </h3>
   <div class="pl-6">
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Level</p>
       <p class="">Graduate</p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Topics covered</p>
       <p class="">
         Variety of advanced ANOVA and regression topics such as block designs,
@@ -96,14 +100,14 @@
         and model diagnostics.
       </p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Student group</p>
       <p class="">
         Clinical, basic science, MPH, MS/PhD Biostatistics/Epidemiology
         students.
       </p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Responsibilities</p>
       <p class="">
         Provided statistical programming lectures (lab class for SAS and R) to
@@ -121,24 +125,24 @@
     Teaching Associate, MATH 1530 – Probability and Statistics, 2015-2016
   </h3>
   <div class="pl-6">
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Level</p>
       <p class="">Undergraduate</p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Topics covered</p>
       <p class="">
         Probability rules, experimental data collection and analysis, sampling
         and survey techniques, statistical inference, hypothesis testing.
       </p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Student group</p>
       <p class="">
         Freshmen/sophomore undergraduate students with limited math background.
       </p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Responsibilities</p>
       <p class="">
         Lecturing, creating and grading homework, conducting quizzes and exams,
@@ -151,11 +155,11 @@
 <div class="card">
   <h3 class="card-title">Resident Adviser, Upward Bound, 2015-2016</h3>
   <div class="pl-6">
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Class</p>
       <p class="">College Math Prep</p>
     </div>
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Responsibilities</p>
       <p class="">
         Preparing high school students to take college-level math courses.
@@ -168,7 +172,7 @@
     Math and Statistics Tutor, Center for Academic Achievement, 2014-2015
   </h3>
   <div class="pl-6">
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Responsibilities</p>
       <p class="">
         Assisting undergraduate students through individual tutoring sessions in
@@ -187,7 +191,7 @@
     Math and Statistics Tutor, Math Department, 2010-2012
   </h3>
   <div class="pl-6">
-    <div class="flex py-0.5">
+    <div class="flex card-row">
       <p class="card-row-header">Responsibilities</p>
       <p class="">
         Tutoring students in undergraduate-level math and statistics courses.

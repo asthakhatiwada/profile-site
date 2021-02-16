@@ -8,11 +8,11 @@
   }
 </style>
 
-<div class="block sm:flex">
-  <div class="sm:w-1/3 pr-0 mb-4 sm:mr-6">
+<div class="block md:flex">
+  <div class="md:w-1/3 pr-0 mb-4 md:mr-6">
     <img src="/public/img/ak.jpeg" class="" />
   </div>
-  <div class="sm:w-2/3">
+  <div class="md:w-2/3">
     <h2 class="mt-0" style="margin-top: 0">About</h2>
     <div>
       <p>
@@ -80,12 +80,6 @@
       <p class="mt-4">
         See my
         <a href="/cv" class="external-link" use:link>CV</a>
-        and/or
-        <a
-          class="external-link"
-          target="_blank"
-          href="https://scholar.google.com/citations?user=35QeShYAAAAJ&hl=en&oi=ao">google
-          scholar page</a>
         for additional details.
       </p>
     </div>
