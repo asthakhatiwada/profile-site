@@ -49,7 +49,7 @@
         <a
           class="external-link"
           target="_blank"
-          href="https://www.mnstate.edu.">MSUM</a>.
+          href="https://www.mnstate.edu">MSUM</a>.
       </p>
     </div>
 
