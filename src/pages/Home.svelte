@@ -88,7 +88,8 @@
     <div>
       <p>Aastha Khatiwada</p>
       <p>Department of Public Health Sciences</p>
-      <p>135 Cannon Place, Suite 305, Charleston, SC 29425</p>
+      <p>135 Cannon Place, Suite 305</p>
+      <p>Charleston, SC 29425</p>
       <p>email: khatiwad at musc dot edu</p>
     </div>
   </div>
