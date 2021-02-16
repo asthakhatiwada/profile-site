@@ -108,7 +108,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
         <InlineSVG
           src={star}
           class="h-6 w-6 flex-shrink-0 fill-current inline-block mr-1" />
-        Downloaded 1,792 times
+        Downloaded over 1,790 times
     </p>
   </div>
 </div>
