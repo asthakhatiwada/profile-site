@@ -44,7 +44,7 @@
           class="external-link"
           target="_blank"
           href="https://www.etsu.edu/ehome/">ETSU</a>
-        , and a BS degree in Math (actuarial science emphasis) and BA degree in
+        , and a BS degree in Math (actuarial science emphasis) and a BA degree in
         Economics from
         <a
           class="external-link"
