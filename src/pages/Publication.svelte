@@ -96,12 +96,13 @@ https://github.com/svelte-add/tailwindcss/issues/8
 <div>
   <div class="publication-item">
     <p>
-      The Pelotonia Institute for Immuno-Oncology, The Ohio State University
-      CD24Fc Covid19 Team (…,
-      <strong>Khatiwada A</strong>, …, Chung D, Li Z). Immunological insights
-      into the therapeutic roles of soluble CD24 against severe COVID-19.
-      Submitted to
-      <span class="italic">New England Journal of Medicine.</span>
+      <strong>Khatiwada A</strong>. 
+      <a
+        class="external-link"
+        target="_blank"
+        href="https://dc.etsu.edu/etd/3090/.">Multilevel Models for Longitudinal Data</a>.
+      <span class="italic">Electronic Theses and Dissertations.</span>
+      2016; Paper 3090.
     </p>
   </div>
 </div>
