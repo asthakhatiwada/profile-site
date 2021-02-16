@@ -26,7 +26,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
     min-width: 110px;
   }
 </style>
-
+<h1 class="text-xl font-bold mb-4">Other Publications</h1>
 <h1 class="text-xl font-bold mb-4">Peer-reviewed Publications</h1>
 <div>
   <div class="publication-item md:flex">
