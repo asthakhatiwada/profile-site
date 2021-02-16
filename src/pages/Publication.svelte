@@ -104,6 +104,12 @@ https://github.com/svelte-add/tailwindcss/issues/8
       <span class="italic">Electronic Theses and Dissertations.</span>
       2016; Paper 3090.
     </p>
+    <p class="special-text">
+        <InlineSVG
+          src={star}
+          class="h-6 w-6 flex-shrink-0 fill-current inline-block mr-1" />
+        Downloaded 1,792 times
+    </p>
   </div>
 </div>
 <h1 class="text-xl font-bold mb-4">Manuscript under Review</h1>
