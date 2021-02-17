@@ -121,7 +121,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
       <strong>Khatiwada A</strong>, …, Chung D, Li Z). Immunological insights
       into the therapeutic roles of soluble CD24 against severe COVID-19.
       Submitted to
-      <span class="italic">New England Journal of Medicine.</span>
+      <span class="italic">The New England Journal of Medicine.</span>
     </p>
   </div>
   <div class="publication-item">
