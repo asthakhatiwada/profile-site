@@ -67,7 +67,7 @@
         approach, called GPA-Tree, that combines a machine learning algorithm
         with the hierarchical modeling architecture for integrative analysis of
         genome wide association studies (GWAS) data and functional annotation
-        information (e.g., gene expression, expression quantitative loci,
+        information (e.g., gene expression, expression quantitative trait loci,
         epigenetic marks).
       </p>
       <p class="mt-4">
