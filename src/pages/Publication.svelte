@@ -145,9 +145,8 @@ https://github.com/svelte-add/tailwindcss/issues/8
     <p>
       Richard MLL, Wirth JR,
       <strong>Khatiwada A</strong>, Chung D, Eudaly J, Gilkeson GS, Cunningham
-      MA. Deletion of ERα expression in CD11c+ cells reduce survival in female
-      mice and impacts pathways associated with cytokine signaling. Submitted to
-      <span class="italic">Journal of Immunology.</span>
+      MA. Conditional knockout of ERα in CD11c+ cells, impact on survival and inflammatory cytokines in murine lupus. Submitted to
+      <span class="italic">The Journal of Immunology.</span>
     </p>
   </div>
 </div>
