@@ -15,7 +15,7 @@
       </p>
       <p>
         Download from
-        <a class="external-link" href="">Github</a>(to be added later)
+        <a class="external-link" href="https://github.com/asthakhatiwada/GPATree">Github</a>.
       </p>
     </div>
   </div>
