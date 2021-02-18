@@ -34,8 +34,9 @@
     <div class="flex card-row">
       <p class="card-row-header">Topics covered</p>
       <p class="">
-        Simple and multiple linear regression, logistic regression, model-based
-        hypothesis testing, diagnostics, model building and variable selection.
+        Variety of advanced ANOVA and regression topics such as block designs,
+        repeated measures design, mixed effects models, analysis of missing data
+        and model diagnostics.
       </p>
     </div>
     <div class="flex card-row">
@@ -95,9 +96,8 @@
     <div class="flex card-row">
       <p class="card-row-header">Topics covered</p>
       <p class="">
-        Variety of advanced ANOVA and regression topics such as block designs,
-        repeated measures design, mixed effects models, analysis of missing data
-        and model diagnostics.
+        Simple and multiple linear regression, logistic regression, model-based
+        hypothesis testing, diagnostics, model building and variable selection.
       </p>
     </div>
     <div class="flex card-row">
