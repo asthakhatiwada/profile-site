@@ -72,8 +72,7 @@
       </p>
       <p class="mt-4">
         Aside from independent research, I also enjoy multidisciplinary
-        collaborations, and work with clinicians and translational science
-        researchers. I usually work alongside my collaborators to develop
+        collaborations, and work with clinical and translational scientists. I usually work alongside my collaborators to develop
         research questions, design studies, perform statistical analysis,
         interpret results and co-author manuscripts.
       </p>
