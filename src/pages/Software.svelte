@@ -10,7 +10,7 @@
       <h2 class="mt-0">GPATree</h2>
       <p>R package to implement the GPA-Tree method.</p>
       <p>
-        Shiny app to interactively implement association mapping and investigate
+        R Shiny app to interactively implement association mapping and investigate
         functional annotation tree.
       </p>
       <p>
