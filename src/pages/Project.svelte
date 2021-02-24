@@ -21,7 +21,7 @@
     treatment (cross-sectional study).
   </li>
   <li class="description">
-    Predicting renal flare in LN patients using select urine and serum
+    Predicting renal flare in Lupus Nephritis patients using select urine and serum
     biomarkers (longitudinal cohort).
   </li>
   <li class="description">
