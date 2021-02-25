@@ -58,7 +58,7 @@
       <p class="mt-4">
         My research is focused on developing novel statistical approaches to
         integrate genetic data with genomic functional annotation data applied
-        to complex autoimmune diseases (e.g., systemic lupus erythematosus,
+        to complex diseases (e.g., systemic lupus erythematosus,
         rheumatoid arthritis, ulcerative colitis, Crohn’s disease). More
         generally, the goal of my research is to improve statistical power to
         identify genetic variants associated with risk of complex diseases and
