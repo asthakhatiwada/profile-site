@@ -4,9 +4,8 @@
   </a>
 </div>
 
-<embed
-  src="/public/misc/Khatiwada_CV.pdf"
-  type="application/pdf"
+<iframe
+  src="/public/pdfjs/web/viewer.html"
   width="100%"
-  style="max-width: 800px"
-  class="flex-1 m-auto" />
+  style="min-height: 1200px"
+/>
