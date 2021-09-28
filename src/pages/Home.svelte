@@ -28,7 +28,7 @@
         <a
           class="external-link"
           target="_blank"
-          href="https://sites.google.com/site/statdchung/">Dr. Dongjun Chung.</a> from the
+          href="https://sites.google.com/site/statdchung/">Dr. Dongjun Chung</a> from the
         <a
           class="external-link"
           target="_blank"
