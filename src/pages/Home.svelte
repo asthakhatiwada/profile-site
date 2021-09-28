@@ -19,7 +19,8 @@
         I am an Assistant Professor of Biostatistics and Bioinformatics at <a
           class="external-link"
           target="_blank"
-          href="https://www.nationaljewish.org/home">National Jewish Health</a>. I received my PhD in Biostatistics under the supervision of <a
+          href="https://www.nationaljewish.org/home">National Jewish Health</a>. 
+        I received my PhD in Biostatistics under the supervision of <a
           class="external-link"
           target="_blank"
           href="http://people.musc.edu/~wolfb/">
@@ -32,7 +33,8 @@
         <a
           class="external-link"
           target="_blank"
-          href="https://web.musc.edu">Medical University of South Carolina</a>, Master's degree in Mathematics (statistics concentration) under
+          href="https://web.musc.edu">Medical University of South Carolina</a>, 
+        Master's degree in Mathematics (statistics concentration) under
         the supervision of
         <a
           class="external-link"
@@ -85,8 +87,7 @@
     <h2 class="text-xl font-bold mb-4">Contact</h2>
     <div>
       <p>Aastha Khatiwada</p>
-      <p>Divison of Biostatistics and Bioinformatics</p>
-      
+      <p>Divison of Biostatistics and Bioinformatics</p>      
       <p>1400 Jackson St</p>
       <p>B'nai B'rith Building, Room M222e</p>
       <p>Denver, CO 80206</p>
