@@ -16,13 +16,10 @@
     <h2 class="mt-0" style="margin-top: 0">About</h2>
     <div>
       <p>
-        I am a PhD candidate in Biostatistics at the
-        <a
+        I am an Assistant Professor of Biostatistics and Bioinformatics at <a
           class="external-link"
           target="_blank"
-          href="https://web.musc.edu">Medical University of South Carolina</a>,
-        working under the supervision of
-        <a
+          href="https://www.nationaljewish.org/home">National Jewish Health</a>. I received my PhD in Biostatistics under the supervision of <a
           class="external-link"
           target="_blank"
           href="http://people.musc.edu/~wolfb/">
@@ -31,8 +28,11 @@
         <a
           class="external-link"
           target="_blank"
-          href="https://sites.google.com/site/statdchung/">Dr. Dongjun Chung.</a>
-        I received a MS degree in Mathematics (statistics concentration) under
+          href="https://sites.google.com/site/statdchung/">Dr. Dongjun Chung.</a> from the
+        <a
+          class="external-link"
+          target="_blank"
+          href="https://web.musc.edu">Medical University of South Carolina</a>, Master's degree in Mathematics (statistics concentration) under
         the supervision of
         <a
           class="external-link"
@@ -44,8 +44,7 @@
           class="external-link"
           target="_blank"
           href="https://www.etsu.edu/ehome/">ETSU</a>
-        , and a BS degree in Math (actuarial science emphasis) and a BA degree in
-        Economics from
+        , and Bachelor's degree in Mathematics (actuarial science emphasis) and Economics from
         <a
           class="external-link"
           target="_blank"
@@ -86,10 +85,13 @@
     <h2 class="text-xl font-bold mb-4">Contact</h2>
     <div>
       <p>Aastha Khatiwada</p>
-      <p>Department of Public Health Sciences</p>
-      <p>135 Cannon Place, Suite 305</p>
-      <p>Charleston, SC 29425</p>
-      <p>email: khatiwad at musc dot edu</p>
+      <p>Divison of Biostatistics and Bioinformatics</p>
+      
+      <p>1400 Jackson St</p>
+      <p>B'nai B'rith Building, Room M222e</p>
+      <p>Denver, CO 80206</p>
+      <p>phone: 303-398-1062</p>
+      <p>email: khatiwadaa at njhealth dot org</p>
     </div>
   </div>
 </div>
