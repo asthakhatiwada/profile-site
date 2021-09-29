@@ -45,8 +45,8 @@
         <a
           class="external-link"
           target="_blank"
-          href="https://www.etsu.edu/ehome/">ETSU</a>
-        , and Bachelor's degree in Mathematics (actuarial science emphasis) and Economics from
+          href="https://www.etsu.edu/ehome/">ETSU</a>, and Bachelor's degree in 
+        Mathematics (actuarial science emphasis) and Economics from
         <a
           class="external-link"
           target="_blank"
