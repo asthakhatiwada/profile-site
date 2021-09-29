@@ -88,8 +88,7 @@
     <div>
       <p>Aastha Khatiwada</p>
       <p>Divison of Biostatistics and Bioinformatics</p>      
-      <p>1400 Jackson St</p>
-      <p>B'nai B'rith Building, Room M222e</p>
+      <p>1400 Jackson St, M222e</p>
       <p>Denver, CO 80206</p>
       <p>phone: 303-398-1062</p>
       <p>email: khatiwadaa at njhealth dot org</p>
