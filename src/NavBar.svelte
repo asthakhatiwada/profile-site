@@ -23,7 +23,7 @@
   }
 </style>
 
-<header class="dark:bg-gray-800 bg-gray-600">
+<header class="dark:bg-gray-800 bg-gray-600 fixed w-screen">
   <div
     class="max-w-screen-lg m-auto md:flex md:justify-between md:px-4 md:py-3 md:pr-3 md:justify-center">
     <div class="flex items-center justify-between px-4 py-3 md:p-0">
