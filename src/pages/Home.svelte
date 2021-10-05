@@ -35,13 +35,7 @@
           target="_blank"
           href="https://web.musc.edu">Medical University of South Carolina</a>, 
         Master's degree in Mathematics (statistics concentration) under
-        the supervision of
-        <a
-          class="external-link"
-          target="_blank"
-          href="http://faculty.etsu.edu/seier/">
-          Dr. Edith Seier</a>
-        from
+        the supervision of Dr. Edith Seier from 
         <a
           class="external-link"
           target="_blank"
@@ -86,7 +80,6 @@
 
     <h2 class="text-xl font-bold mb-4">Contact</h2>
     <div>
-      <p>Aastha Khatiwada</p>
       <p>Divison of Biostatistics and Bioinformatics</p>      
       <p>1400 Jackson St, M222e</p>
       <p>Denver, CO 80206</p>
