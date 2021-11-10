@@ -152,7 +152,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
   </div>
   <div class="publication-item">
     <p>
-      Burton JH, <strong>Khatiwada A</strong>, Chung D, Meissner EG. Association of Referral Source and Substance Use with Hepatitis C Virus Outcomes at a Southern Academic Medical Center" (the "Work"). Submitted to
+      Burton JH, <strong>Khatiwada A</strong>, Chung D, Meissner EG. Association of Referral Source and Substance Use with Hepatitis C Virus Outcomes at a Southern Academic Medical Center. Submitted to
       <span class="italic">Southern Medical Journal.</span>
     </p>
   </div>
