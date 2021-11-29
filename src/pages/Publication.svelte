@@ -139,7 +139,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
       Velegraki M, Liu SL, Ma Q, Devenport M, Liu Y, Zheng P, Malvestutto CD, 
       Chung D, Li Z. Immunological insights into the therapeutic roles of 
       soluble CD24 against severe COVID-19. Submitted to
-      <span class="italic">New England Journal of Medicine.</span>
+      <span class="italic">Journal of Hematology & Oncology.</span>
     </p>
   </div>
  <div class="publication-item">
