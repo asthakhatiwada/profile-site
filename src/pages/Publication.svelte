@@ -133,15 +133,6 @@ https://github.com/svelte-add/tailwindcss/issues/8
 <div>
    <div class="publication-item">
     <p>
-      <strong>Khatiwada A</strong>, Wolf BJ, Yilmaz AS, Ramos P, Pietrzak M,
-      Lawson A, Hunt KJ, Kim HJ, Chung D. GPA-Tree: Statistical Approach for
-      Functional-Annotation-Tree-Guided Prioritization of GWAS results.
-      Submitted to
-      <span class="italic">Bioinformatics.</span>
-    </p>
-  </div>
-  <div class="publication-item">
-    <p>
       Song NJ, Allen C, Vilgelm AE, Riesenberg BP, Weller KP, Reynolds K, 
       Chakravarthy KB, Kumar A, <strong>Khatiwada A</strong>, Sun Z, Ma A, Chang Y, Yusuf M,Li A, 
       Zeng C, Evans JP, Bucci D, Gunasena M, Xu M, Liyanage NPM, Bolyard C, 
