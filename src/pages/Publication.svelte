@@ -34,6 +34,22 @@ https://github.com/svelte-add/tailwindcss/issues/8
     </div>
     <div>
       <p>
+        Ayoub I, Wolf BJ, Geng L, Song H, <strong>Khatiwada A</strong>, Tsao BP, Oates JC, Rovin BH.
+        <a
+           class="external-link"
+           target="_blank"
+           href="https://doi.org/10.1016/j.kint.2021.11.014">Prediction Models of Treatment Response in Lupus Nephritis</a>.
+        <span class="italic">Kidney Int. </span>
+        2021 Dec 3:S0085-2538(21)01079-6. doi: 10.1016/j.kint.2021.11.014. Epub ahead of print. PMID: 34871620.
+        </p>
+      </div>
+    </div>
+  <div class="publication-item md:flex">
+    <div class="image-wrapper">
+      <img class="publication-image" src="/public/img/bioinformatics.gif" />
+    </div>
+    <div>
+      <p>
         <strong>Khatiwada A</strong>, Wolf BJ, Yilmaz AS, Ramos PS, Pietrzak M, Lawson A, Hunt KJ, Kim HJ, Chung D.
         <a
            class="external-link"
@@ -143,14 +159,6 @@ https://github.com/svelte-add/tailwindcss/issues/8
     </p>
   </div>
  <div class="publication-item">
-    <p>
-      Ayoub I, Wolf BJ, Geng L, Song H,
-      <strong>Khatiwada A</strong>, Tsao B, Oats J, Rovin B. Prediction Models
-      of Treatment Response in Lupus Nephritis. Submitted to
-      <span class="italic">Kidney International.</span>
-    </p>
-  </div>
-  <div class="publication-item">
     <p>
       Richard MLL, Wirth JR,
       <strong>Khatiwada A</strong>, Chung D, Eudaly J, Gilkeson GS, Cunningham
