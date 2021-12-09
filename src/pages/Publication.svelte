@@ -30,7 +30,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
 <div>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
-      <img class="publication-image" src="/public/img/ki.jpg" />
+      <img class="publication-image" src="/public/img/ki.jpeg" />
     </div>
     <div>
       <p>
@@ -40,7 +40,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
            target="_blank"
            href="https://doi.org/10.1016/j.kint.2021.11.014">Prediction Models of Treatment Response in Lupus Nephritis</a>.
         <span class="italic">Kidney Int. </span>
-        2021 Dec 3:S0085-2538(21)01079-6. doi: 10.1016/j.kint.2021.11.014. Epub ahead of print. PMID: 34871620.
+        2021 Dec 3:S0085-2538(21)01079-6. Epub ahead of print. PMID: 34871620.
         </p>
       </div>
     </div>
@@ -54,10 +54,10 @@ https://github.com/svelte-add/tailwindcss/issues/8
         <a
            class="external-link"
            target="_blank"
-           href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab802/6443109">GPA-Tree: 
+           href="https://doi.org/10.1093/bioinformatics/btab802">GPA-Tree: 
           Statistical Approach for Functional-Annotation-Tree-Guided Prioritization of GWAS Results</a>.
         <span class="italic">Bioinformatics</span>
-        2021 Nov 26:btab802. doi: 10.1093/bioinformatics/btab802. Epub ahead of print. PMID: 34849578.
+        2021 Nov 26:btab802. Epub ahead of print. PMID: 34849578.
         </p>
       </div>
     </div>
