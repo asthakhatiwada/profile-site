@@ -30,7 +30,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
 <div>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
-      <img class="publication-image" src="/public/img/ki.jpeg" />
+      <img class="publication-image" src="/public/img/ki.JPG" />
     </div>
     <div>
       <p>
