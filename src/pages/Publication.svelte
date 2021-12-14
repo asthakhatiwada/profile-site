@@ -30,6 +30,36 @@ https://github.com/svelte-add/tailwindcss/issues/8
 <div>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
+      <img class="publication-image" src="/public/img/" />
+    </div>
+    <div>
+      <p>
+        Beswick D, Humphries S, Balkissoon C, Strand M, Miller J,  <strong>Khatiwada A</strong>, Vladar E, Lynch DA, Taylor-Cousar J. 
+        <a
+           class="external-link"
+           target="_blank"
+           href="">Olfactory Dysfunction in People with Cystic Fibrosis with at least One Copy of F508del.</a>.
+        <span class="italic"> To appear in International Forum of Allergy & Rhinology. </span>
+        </p>
+      </div>
+    </div>
+  <div class="publication-item md:flex">
+    <div class="image-wrapper">
+      <img class="publication-image" src="/public/img/" />
+    </div>
+    <div>
+      <p>
+        Burton JH, <strong>Khatiwada A</strong>, Chung D, Meissner EG. 
+        <a
+           class="external-link"
+           target="_blank"
+           href="">Association of Referral Source and Substance Use with Hepatitis C Virus Outcomes at a Southern Academic Medical Center</a>.
+        <span class="italic"> To appear in Southern Medical Journal. </span>
+        </p>
+      </div>
+    </div>
+  <div class="publication-item md:flex">
+    <div class="image-wrapper">
       <img class="publication-image" src="/public/img/ki.JPG" />
     </div>
     <div>
@@ -165,18 +195,5 @@ https://github.com/svelte-add/tailwindcss/issues/8
       MA. Conditional knockout of ERα in CD11c+ cells, impact on survival and inflammatory cytokines in murine lupus. Submitted to
       <span class="italic">The Journal of Immunology.</span>
     </p>
-  </div>
-  <div class="publication-item">
-    <p>
-      Burton JH, <strong>Khatiwada A</strong>, Chung D, Meissner EG. Association of Referral Source and Substance Use with Hepatitis C Virus Outcomes at a Southern Academic Medical Center. Submitted to
-      <span class="italic">Southern Medical Journal.</span>
-    </p>
-  </div>
-  <div class="publication-item">
-    <p>
-      Beswick D, Humphries S, Balkissoon C, Strand M, Miller J,  <strong>Khatiwada A</strong>, Vladar E, Lynch DA, Taylor-Cousar J. Olfactory Dysfunction in People with Cystic Fibrosis with at least One Copy of F508del. Submitted to
-      <span class="italic">International Forum of Allergy & Rhinology.</span>
-    </p>
-  </div>
-  
+  </div>  
 </div>
