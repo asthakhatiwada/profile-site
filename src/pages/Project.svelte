@@ -17,10 +17,6 @@
     (retrospective cross-sectional cohort).
   </li>
   <li class="description">
-    Identifying factors associated with retention of patient for Hepatitis C
-    treatment (cross-sectional study).
-  </li>
-  <li class="description">
     Predicting renal flare in Lupus Nephritis patients using select urine and serum
     biomarkers (longitudinal cohort).
   </li>
