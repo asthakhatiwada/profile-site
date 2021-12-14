@@ -38,7 +38,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
         <a
            class="external-link"
            target="_blank"
-           href="">Olfactory Dysfunction in People with Cystic Fibrosis with at least One Copy of F508del.</a>. To appear in 
+           Olfactory Dysfunction in People with Cystic Fibrosis with at least One Copy of F508del.</a>. To appear in 
         <span class="italic">International Forum of Allergy & Rhinology. </span>
         </p>
       </div>
@@ -53,7 +53,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
         <a
            class="external-link"
            target="_blank"
-           href="">Association of Referral Source and Substance Use with Hepatitis C Virus Outcomes at a Southern Academic Medical Center</a>. To appear in
+           Association of Referral Source and Substance Use with Hepatitis C Virus Outcomes at a Southern Academic Medical Center</a>. To appear in
         <span class="italic"> The Southern Medical Journal. </span>
         </p>
       </div>
