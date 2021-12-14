@@ -54,7 +54,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
            class="external-link"
            target="_blank"
            href="">Association of Referral Source and Substance Use with Hepatitis C Virus Outcomes at a Southern Academic Medical Center</a>. To appear in
-        <span class="italic">Southern Medical Journal. </span>
+        <span class="italic"> The Southern Medical Journal. </span>
         </p>
       </div>
     </div>
