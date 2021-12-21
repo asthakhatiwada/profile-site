@@ -34,6 +34,21 @@ https://github.com/svelte-add/tailwindcss/issues/8
     </div>
     <div>
       <p>
+        Song NJ, Allen C, Vilgelm AE, Riesenberg BP, Weller KP, Reynolds K, 
+      Chakravarthy KB, Kumar A, <strong>Khatiwada A</strong>, Sun Z, Ma A, Chang Y, Yusuf M,Li A, 
+      Zeng C, Evans JP, Bucci D, Gunasena M, Xu M, Liyanage NPM, Bolyard C, 
+      Velegraki M, Liu SL, Ma Q, Devenport M, Liu Y, Zheng P, Malvestutto CD, 
+      Chung D, Li Z. Immunological insights into the therapeutic roles of 
+      soluble CD24 against severe COVID-19. To appear in <span class="italic">Journal of Hematology & Oncology.</span>
+        </p>
+      </div>
+    </div>
+  <div class="publication-item md:flex">
+    <div class="image-wrapper">
+      <img class="publication-image" src="/public/img/" />
+    </div>
+    <div>
+      <p>
         Beswick D, Humphries S, Balkissoon C, Strand M, Miller J,  <strong>Khatiwada A</strong>, Vladar E, Lynch DA, Taylor-Cousar J. 
         Olfactory Dysfunction in People with Cystic Fibrosis with at least One Copy of F508del. To appear in 
         <span class="italic">International Forum of Allergy & Rhinology. </span>
@@ -172,17 +187,6 @@ https://github.com/svelte-add/tailwindcss/issues/8
 </div>
 <h1 class="text-xl font-bold mb-4">Manuscript under Review</h1>
 <div>
-   <div class="publication-item">
-    <p>
-      Song NJ, Allen C, Vilgelm AE, Riesenberg BP, Weller KP, Reynolds K, 
-      Chakravarthy KB, Kumar A, <strong>Khatiwada A</strong>, Sun Z, Ma A, Chang Y, Yusuf M,Li A, 
-      Zeng C, Evans JP, Bucci D, Gunasena M, Xu M, Liyanage NPM, Bolyard C, 
-      Velegraki M, Liu SL, Ma Q, Devenport M, Liu Y, Zheng P, Malvestutto CD, 
-      Chung D, Li Z. Immunological insights into the therapeutic roles of 
-      soluble CD24 against severe COVID-19. Submitted to
-      <span class="italic">Journal of Hematology & Oncology.</span>
-    </p>
-  </div>
  <div class="publication-item">
     <p>
       Richard MLL, Wirth JR,
