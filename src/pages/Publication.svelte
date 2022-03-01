@@ -54,9 +54,13 @@ https://github.com/svelte-add/tailwindcss/issues/8
     </div>
     <div>
       <p>
-        Beswick D, Humphries S, Balkissoon C, Strand M, Miller J,  <strong>Khatiwada A</strong>, Vladar E, Lynch DA, Taylor-Cousar J. 
-        Olfactory Dysfunction in People with Cystic Fibrosis with at least One Copy of F508del. To appear in 
+        Beswick D, Humphries S, Balkissoon C, Strand M, Miller J,  <strong>Khatiwada A</strong>, Vladar E, Lynch DA, Taylor-Cousar J.
+        <a
+           class="external-link"
+           target="_blank"
+           href="https://doi.org/10.1002/alr.22946">Olfactory Dysfunction in People with Cystic Fibrosis with at least One Copy of F508del.</a>.
         <span class="italic">International Forum of Allergy & Rhinology. </span>
+        2021 Dec 15. PMID: 34908251.
         </p>
       </div>
     </div>
