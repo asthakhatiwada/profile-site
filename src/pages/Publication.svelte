@@ -38,12 +38,13 @@ https://github.com/svelte-add/tailwindcss/issues/8
         Chakravarthy KB, Kumar A, <strong>Khatiwada A</strong>, Sun Z, Ma A, Chang Y, Yusuf M,Li A, 
         Zeng C, Evans JP, Bucci D, Gunasena M, Xu M, Liyanage NPM, Bolyard C, 
         Velegraki M, Liu SL, Ma Q, Devenport M, Liu Y, Zheng P, Malvestutto CD, 
-        Chung D, Li Z. 
-        class="external-link"
+        Chung D, Li Z.
+        <a
+           class="external-link"
            target="_blank"
            href="https://doi.org/10.1186/s13045-021-01222-y">Treatment with soluble CD24 attenuates COVID-19-associated systemic immunopathology.</a>.
-        <span class="italic">Journal of Hematology & Oncology </span>
-        J Hematol Oncol 15, 5 (2022)
+        <span class="italic">Journal of Hematology & Oncology. </span>
+        15, 5 (2022).
         </p>
       </div>
     </div>
