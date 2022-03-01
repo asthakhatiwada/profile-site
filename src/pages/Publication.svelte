@@ -35,11 +35,15 @@ https://github.com/svelte-add/tailwindcss/issues/8
     <div>
       <p>
         Song NJ, Allen C, Vilgelm AE, Riesenberg BP, Weller KP, Reynolds K, 
-      Chakravarthy KB, Kumar A, <strong>Khatiwada A</strong>, Sun Z, Ma A, Chang Y, Yusuf M,Li A, 
-      Zeng C, Evans JP, Bucci D, Gunasena M, Xu M, Liyanage NPM, Bolyard C, 
-      Velegraki M, Liu SL, Ma Q, Devenport M, Liu Y, Zheng P, Malvestutto CD, 
-      Chung D, Li Z. Immunological insights into the therapeutic roles of 
-      soluble CD24 against severe COVID-19. To appear in <span class="italic">Journal of Hematology & Oncology.</span>
+        Chakravarthy KB, Kumar A, <strong>Khatiwada A</strong>, Sun Z, Ma A, Chang Y, Yusuf M,Li A, 
+        Zeng C, Evans JP, Bucci D, Gunasena M, Xu M, Liyanage NPM, Bolyard C, 
+        Velegraki M, Liu SL, Ma Q, Devenport M, Liu Y, Zheng P, Malvestutto CD, 
+        Chung D, Li Z. 
+        class="external-link"
+           target="_blank"
+           href="https://doi.org/10.1186/s13045-021-01222-y">Treatment with soluble CD24 attenuates COVID-19-associated systemic immunopathology.</a>.
+        <span class="italic">Journal of Hematology & Oncology </span>
+        J Hematol Oncol 15, 5 (2022)
         </p>
       </div>
     </div>
