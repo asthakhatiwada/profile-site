@@ -106,7 +106,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
            href="https://doi.org/10.1093/bioinformatics/btab802">GPA-Tree: 
           Statistical Approach for Functional-Annotation-Tree-Guided Prioritization of GWAS Results</a>.
         <span class="italic">Bioinformatics</span>
-        2021 Nov 26:btab802. Epub ahead of print. PMID: 34849578.
+        Volume 38, Issue 4, 15 February 2022, Pages 1067–1074.
         </p>
       </div>
     </div>
