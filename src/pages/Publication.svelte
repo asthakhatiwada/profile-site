@@ -30,6 +30,23 @@ https://github.com/svelte-add/tailwindcss/issues/8
 <div>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
+      <img class="publication-image" src="/public/img/alr.jpeg" />
+    </div>
+    <div>
+      <p>
+        Beswick DM, Humphries SM, Miller JE, Balkissoon CD, <strong>Khatiwada A</strong>, Vladar EK, Ramakrishnan VR, Lynch DA, Taylor-Cousar JL
+        <a
+           class="external-link"
+           target="_blank"
+           href="https://10.1002/alr.23016">Objective and patient-based measures of chronic rhinosinusitis in people with cystic fibrosis 
+          treated with highly effective modulator therapy.</a>.
+        <span class="italic">International Forum of Allergy & Rhinology. </span>
+        2022 May 20. PMID: 35595546.
+        </p>
+      </div>
+    </div>
+  <div class="publication-item md:flex">
+    <div class="image-wrapper">
       <img class="publication-image" src="/public/img/journalho.jpeg" />
     </div>
     <div>
