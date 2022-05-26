@@ -27,6 +27,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
   }
 </style>
 <h1 class="text-xl font-bold mb-4">Peer-reviewed Publications</h1>
+<h2 class="text-xl font-bold mb-4">2022</h2>
 <div>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
@@ -153,6 +154,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
       </p>
     </div>
   </div>
+  <h2 class="text-xl font-bold mb-4">2020</h2>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
       <img class="publication-image" src="/public/img/csam.gif" />
@@ -174,6 +176,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
       </p>
     </div>
   </div>
+  <h2 class="text-xl font-bold mb-4">2018</h2>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
       <img class="publication-image" src="/public/img/po.gif" />
