@@ -31,6 +31,24 @@ https://github.com/svelte-add/tailwindcss/issues/8
 <div>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
+      <img class="publication-image" src="/public/img/smj.png" />
+    </div>
+    <div>
+      <p>
+        Burton JH, <strong>Khatiwada A</strong>, Chung D, Meissner EG. 
+        <a
+           class="external-link"
+           target="_blank"
+           href="https://10.1002/alr.23016">
+        Association of Referral Source and Substance Use with Hepatitis C Virus 
+        Outcomes at a Southern Academic Medical Center.</a>  
+        <span class="italic">Southern Medical Journal. </span>
+        2022 Jun;115(6):352-357. doi: 10.14423/SMJ.0000000000001402. PMID: 35649518. 
+        </p>
+      </div>
+    </div>
+  <div class="publication-item md:flex">
+    <div class="image-wrapper">
       <img class="publication-image" src="/public/img/alr.jpeg" />
     </div>
     <div>
@@ -99,19 +117,6 @@ https://github.com/svelte-add/tailwindcss/issues/8
            href="https://doi.org/10.1002/alr.22946">Olfactory Dysfunction in People with Cystic Fibrosis with at least One Copy of F508del</a>.
         <span class="italic">International Forum of Allergy & Rhinology. </span>
         2021 Dec 15. PMID: 34908251.
-        </p>
-      </div>
-    </div>
-  <div class="publication-item md:flex">
-    <div class="image-wrapper">
-      <img class="publication-image" src="/public/img/smj.png" />
-    </div>
-    <div>
-      <p>
-        Burton JH, <strong>Khatiwada A</strong>, Chung D, Meissner EG. 
-        Association of Referral Source and Substance Use with Hepatitis C Virus 
-        Outcomes at a Southern Academic Medical Center. To appear in
-        <span class="italic"> The Southern Medical Journal. </span>
         </p>
       </div>
     </div>
