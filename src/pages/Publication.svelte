@@ -39,7 +39,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
         <a
            class="external-link"
            target="_blank"
-           href="https://10.14423/SMJ.0000000000001402">Association of Referral Source and Substance Use with Hepatitis C Virus 
+           href="https://doi.org/10.14423/smj.0000000000001402">Association of Referral Source and Substance Use with Hepatitis C Virus 
         Outcomes at a Southern Academic Medical Center.</a>  
         <span class="italic">Southern Medical Journal. </span>
         2022 Jun;115(6):352-357. PMID: 35649518. 
