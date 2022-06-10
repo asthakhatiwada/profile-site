@@ -56,7 +56,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
         <a
            class="external-link"
            target="_blank"
-           href="https://10.1002/alr.23016">Objective and patient-based measures of chronic rhinosinusitis in people with cystic fibrosis 
+           href="https://doi.org/10.1002/alr.23016">Objective and patient-based measures of chronic rhinosinusitis in people with cystic fibrosis 
           treated with highly effective modulator therapy.</a>.
         <span class="italic">International Forum of Allergy & Rhinology. </span>
         2022 May 20. PMID: 35595546.
