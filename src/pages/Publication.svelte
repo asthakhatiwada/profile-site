@@ -46,6 +46,24 @@ https://github.com/svelte-add/tailwindcss/issues/8
         </p>
       </div>
     </div>
+   <div class="publication-item md:flex">
+    <div class="image-wrapper">
+      <img class="publication-image" src="/public/img/imm.jpeg" />
+    </div>
+    <div>
+      <p> Richard MLL, Wirth JR, <strong>Khatiwada A</strong>, Chung D, Gilkeson GS, Cunningham MA.
+        <a
+           class="external-link"
+           target="_blank"
+           href="https://doi.org/10.1111/imm.13541">
+          Conditional knockout of ERα in CD11c+ cells impacts female survival and inflammatory cytokine profile in murine lupus.</a>  
+        <span class="italic">Immunology. </span>
+        2022; 0019-2805. 
+        </p>
+      </div>
+    </div>
+   Conditional knockout of ERα in CD11c+ cells, impact on survival and inflammatory cytokines in murine lupus. Submitted to
+      <span class="italic">The Journal of Immunology.</span>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
       <img class="publication-image" src="/public/img/smj.png" />
@@ -244,17 +262,6 @@ https://github.com/svelte-add/tailwindcss/issues/8
 <div>
  <div class="publication-item">
     <p>
-      Richard MLL, Wirth JR,
-      <strong>Khatiwada A</strong>, Chung D, Eudaly J, Gilkeson GS, Cunningham
-      MA. Conditional knockout of ERα in CD11c+ cells, impact on survival and inflammatory cytokines in murine lupus. Submitted to
-      <span class="italic">The Journal of Immunology.</span>
-    </p>
-  </div>
-  <div class="publication-item">
-    <p>
-      Strand M, <strong>Khatiwada A</strong>, Baraghoshi D, Lynch D, Silverman E, Bhatt S, Austin E, Regan E, Boriek A, Crapo J. 
-      Predicting COPD progression in current and former smokers using a joint model for FEV1 and FEV1/FVC. 
-      Submitted to <span class="italic">Chronic Obstructive Pulmonary Diseases: Journal of the COPD Foundation.</span>
     </p>
   </div>
 </div>
