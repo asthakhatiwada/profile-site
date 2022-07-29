@@ -31,6 +31,23 @@ https://github.com/svelte-add/tailwindcss/issues/8
 <div>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
+      <img class="publication-image" src="/public/img/copd.jpeg" />
+    </div>
+    <div>
+      <p> Strand M, <strong>Khatiwada A</strong>, Baraghoshi D, et al.
+        <a
+           class="external-link"
+           target="_blank"
+           href="http://doi.org/10.15326/jcopdf.2022.0281">Predicting COPD Progression in Current and 
+          Former Smokers Using a Joint Model for Forced Expiratory Volume in 1 Second and Forced 
+          Expiratory Volume in 1 Second to Forced Vital Capacity Ratio.</a>  
+        <span class="italic">Chronic Obstr Pulm Dis. </span>
+        2022; 9(3): 439-453. 
+        </p>
+      </div>
+    </div>
+  <div class="publication-item md:flex">
+    <div class="image-wrapper">
       <img class="publication-image" src="/public/img/smj.png" />
     </div>
     <div>
