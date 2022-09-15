@@ -80,7 +80,7 @@
 
     <h2 class="text-xl font-bold mb-4">Contact</h2>
     <div>
-      <p>Division of Biostatistics</p>      
+      <p>Division of Biostatistics and Bioinformatics</p>      
       <p>1400 Jackson St, M222e</p>
       <p>Denver, CO 80206</p>
       <p>phone: 303-398-1062</p>
