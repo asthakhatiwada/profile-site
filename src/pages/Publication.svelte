@@ -29,6 +29,21 @@ https://github.com/svelte-add/tailwindcss/issues/8
 <h1 class="text-xl font-bold mb-4">Peer-reviewed Publications</h1>
 <h2 class="text-xl font-bold mb-4">2022</h2>
 <div>
+   <div class="publication-item md:flex">
+    <div class="image-wrapper">
+      <img class="publication-image" src="/public/img/aap.jpg" />
+    </div>
+    <div>
+      <p> Gross LM, Nelson HS, <strong>Khatiwada A</strong>, Hoyte FC.
+        <a
+           class="external-link"
+           target="_blank"
+           href="https://doi.org/10.2500/aap.2022.43.220067">Curcumin does not significantly affect immediate skin tests.</a>  
+        <span class="italic">Allergy & Asthma Proceedings </span>
+        Volume 43, Number 6, 1 November 2022, pp. 543-545(3). 
+        </p>
+      </div>
+    </div>
   <div class="publication-item md:flex">
     <div class="image-wrapper">
       <img class="publication-image" src="/public/img/copd.jpeg" />
