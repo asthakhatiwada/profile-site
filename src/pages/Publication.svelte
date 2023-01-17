@@ -271,6 +271,7 @@ https://github.com/svelte-add/tailwindcss/issues/8
     </p>
   </div>
 </div>
+<!-- 
 <h1 class="text-xl font-bold mb-4">Manuscript under Review</h1>
 <div>
  <div class="publication-item">
@@ -278,3 +279,4 @@ https://github.com/svelte-add/tailwindcss/issues/8
     </p>
   </div>
 </div>
+-->
