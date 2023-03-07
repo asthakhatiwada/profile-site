@@ -26,7 +26,7 @@
     <div class="px-2">
       <div class="block md:flex items-center">
         <div class="pr-4">
-          <img class="m-auto" style="width: 150px" src="/public/img/multigpatree.png" />
+          <img class="m-auto" style="width: 150px" src="/public/img/gpatree.png" />
         </div>
         <div class="flex-1">
           <h2 class="mt-0">multiGPATree</h2>
@@ -42,7 +42,7 @@
 <div class="px-2">
       <div class="block md:flex items-center">
         <div class="pr-4">
-          <img class="m-auto" style="width: 150px" src="/public/img/trackCOPD.png" />
+          <img class="m-auto" style="width: 150px" src="/public/img/gpatree.png" />
         </div>
         <div class="flex-1">
           <h2 class="mt-0">trackCOPDPro</h2>
@@ -50,7 +50,8 @@
             using important baseline predictors to better understand the factors that affect progression.</p>
           <p>
             Access link
-            <a class="external-link" href="https://aasthakhatiwada.shinyapps.io/software/">Github</a>.
+            <a class="external-link" href="https://aasthakhatiwada.shinyapps.io/software/">
+            </a>.
           </p>
         </div>
       </div>
